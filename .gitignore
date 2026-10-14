@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets — never commit (also covered in server/.gitignore)
+.env
+.env*.local
+credentials.json
+token.json
