@@ -80,4 +80,4 @@ def create_event(title:str, date:str, time:str):
 
     event_link = created_event.get("htmlLink")
 
-    return (f"Event '{title}' created on {date} at {time}. Google Calendar link: {event_link}")
+    return (f"Event '{title}' created on {date} at {time}.")
