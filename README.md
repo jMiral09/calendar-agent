@@ -2,7 +2,7 @@
 
 A chat-based AI assistant that manages your calendar using natural language. Type something like *"Schedule a meeting a day after tomorrow at 12 PM"* and the agent works out the date, creates the event, and replies with a confirmation.
 
-<!-- Add a screenshot or GIF here, e.g. ![Demo](docs/demo.png) -->![Calendar AI Assistant](docs/demo_calendar_UI.pngimage.png)
+<!-- Add a screenshot or GIF here, e.g. ![Demo](docs/demo.png) -->![Calendar AI Assistant](docs/demo_calendar_UI.png)
 
 ## Features
 
@@ -17,8 +17,8 @@ A chat-based AI assistant that manages your calendar using natural language. Typ
 | -------- | -------------------------------------------- |
 | Frontend | Next.js (App Router), React, TypeScript, Tailwind CSS, react-markdown |
 | Backend  | Python, FastAPI, Uvicorn                     |
-| Agent    | <!-- openai/gpt-oss-120b / Groq, LangChain --> |
-| Calendar | <!-- Google Calendar API (OAuth) -->    |
+| Agent    | openai/gpt-oss-120b / Groq, LangChain |
+| Calendar | Google Calendar API (OAuth) |
 
 ## Architecture
 
