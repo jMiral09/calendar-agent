@@ -57,8 +57,8 @@ calendar-agent/
 
 - Node.js 18+
 - Python 3.10+
-- <!-- API key for your LLM provider -->
-- <!-- Google Cloud project with the Calendar API enabled, and an OAuth `credentials.json` -->
+- API key for your LLM provider 
+- Google Cloud project with the Calendar API enabled, and an OAuth `credentials.json`
 
 ### 1. Clone the repo
 
